@@ -1,4 +1,4 @@
-##Three Jupyter Notebooks showing analysis of Fuel Economy dataset, Chipotle dataset using Pandas, Seaborn, Matplotlib
+#Three Jupyter Notebooks showing analysis of Fuel Economy dataset, Chipotle dataset using Pandas, Seaborn, Matplotlib
 
 -Demonstrates basic knowledge of Seaborn library on fuel economy dataset.
 
